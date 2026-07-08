@@ -1,0 +1,16 @@
+flask==3.0.2
+flask-cors==4.0.0
+flask-sqlalchemy==3.1.1
+flask-migrate==4.0.7
+python-dotenv==1.0.1
+gunicorn==21.2.0
+numpy==1.26.4
+scipy==1.12.0
+torch==2.2.0
+transformers==4.38.0
+librosa==0.10.1
+soundfile
+sentence-transformers==2.5.1
+openai-whisper
+SpeechRecognition
+
